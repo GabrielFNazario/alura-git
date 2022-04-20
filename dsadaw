@@ -1,0 +1,23 @@
+[33mc075865[m[33m ([m[1;36mHEAD -> [m[1;32mnovo-release[m[33m)[m Simplificando o título
+[33m7b52a6e[m h1 -> h2
+[33m20a4028[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m Merge pull request #5 from analura8491/master
+[33mf584923[m Trocando UL por DL e seprando os títulos
+[33m76cc5d5[m Merge pull request #2 from analura8491/master
+[33m058474a[m Quebra de linha
+[33m552eb29[m Título adicionado
+[33m9f75207[m[33m ([m[1;33mtag: v0.1.0[m[33m, [m[1;31mlocal/master[m[33m)[m Alterando o nome do curso de Ansible
+[33meab729e[m alterando o nome do curso de kubernetes
+[33m73e32a1[m Mudando o nome do curso de Ansible
+[33m11d9423[m Merge branch 'master' of C:/Users/Adriel/Documents/git-github/servidor
+[33m6544695[m Corrigindo curso de vagrant
+[33m75dda4a[m Merge branch 'lista'
+[33m3df3e1e[m Atualizando nome do curso de Docker
+[33m16b8483[m Corrigindo nome do curso de Docker
+[33m311e61d[m[33m ([m[1;32mtitulo[m[33m)[m Cursos com letra maiúscula
+[33m3a716db[m Adicionando curso de kubernetes
+[33mc8c9d73[m Lista no inicio do título
+[33md84cca3[m Alterando o título da página
+[33mb7a1819[m Renomeado curso de Integração Contínua
+[33ma60ea2a[m Adicionando .gitignore
+[33m5cfcad1[m Acento adicionado no curso de Integração Contínua
+[33m935174f[m Criando arquivo index.html com lista de cursos
